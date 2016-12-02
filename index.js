@@ -1,3 +1,3 @@
-import TextInputLayoutAndroid from 'lib/TextInputLayoutAndroid'
+import TextInputLayoutAndroid from './lib/TextInputLayoutAndroid'
 
 export { TextInputLayoutAndroid }
