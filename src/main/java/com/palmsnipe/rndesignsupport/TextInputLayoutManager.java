@@ -56,4 +56,9 @@ public class TextInputLayoutManager extends ViewGroupManager<TextInputLayout> {
   public void setCounterMaxLength(TextInputLayout view, @Nullable int counterMaxLength) {
     view.setCounterMaxLength(counterMaxLength);
   }
+
+  @ReactProp(name = "passwordToggleDrawable")
+  public void setPasswordToggleDrawable(TextInputLayout view, boolean passwordToggleEnabled) {
+    view.setPasswordVisibilityToggleEnabled(passwordToggleEnabled);
+  }
 }
