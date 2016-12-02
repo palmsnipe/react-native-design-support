@@ -1,0 +1,26 @@
+{
+  "name": "react-native-design-support",
+  "version": "1.0.0",
+  "description": "React-native android design support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmsnipe/react-native-design-support.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "android",
+    "design support"
+  ],
+  "author": "Cyril Moralès",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palmsnipe/react-native-design-support/issues"
+  },
+  "homepage": "https://github.com/palmsnipe/react-native-design-support#readme",
+  "dependencies": {}
+}
